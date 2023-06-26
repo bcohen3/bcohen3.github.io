@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ben Cohen - Johns Hopkins University"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
