@@ -28,3 +28,7 @@ Summer 2017: Syllabus | Evaluations<br />
 
 <h2>Towson High School</h2>
 <em>For detailed information from my time at Towson High, as well as my student teaching, please visit my <a href="https://bencohenportfolio.wordpress.com/>teaching portfolio</a>.</em>
+                                                                                                            
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
