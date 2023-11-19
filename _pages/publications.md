@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Note: Conferences are considered top-tier venues in computer science.
 
 <h2>Peer-Reviewed Conference Publications</h2>
