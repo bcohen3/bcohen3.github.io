@@ -13,7 +13,7 @@ Note: Conferences are considered top-tier venues in computer science.
 
 <p>Fragile minds: Exploring the link between social media and young adult mental health<br />
   <u>Ben Cohen</u> and Ian McCulloh<br />
-  <i>2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</i>, November 2023<br />
+  <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</i>, November 2023<br />
   ★ Best Paper Award
 </p>
 
