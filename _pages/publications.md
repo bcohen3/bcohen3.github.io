@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Note: Conferences are considered top-tier venues in computer science.
+<p>Note: Conferences are considered top-tier venues in computer science.</p>
 
 <h2>Peer-Reviewed Conference Publications</h2>
 
