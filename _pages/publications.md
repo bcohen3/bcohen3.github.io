@@ -7,9 +7,7 @@ author_profile: true
 
 Note: Conferences are considered top-tier venues in computer science.
 
-<header>
-  <h1>Peer-Reviewed Conference Publications</h1>
-</header>
+<h2>Peer-Reviewed Conference Publications</h2>
 
 <p>Fragile minds: Exploring the link between social media and young adult mental health<br />
   <u>Ben Cohen</u> and Ian McCulloh<br />
