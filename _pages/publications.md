@@ -11,7 +11,7 @@ author_profile: true
 
 <h2>Peer-Reviewed Conference Publications</h2>
 
-<p>Fragile minds: Exploring the link between social media and young adult mental health<br />
+<p><a href="/files/asonam_23.pdf">Fragile minds: Exploring the link between social media and young adult mental health</a><br />
   <u>Ben Cohen</u> and Ian McCulloh<br />
   <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</i>, November 2023<br />
   ★ Best Paper Award
