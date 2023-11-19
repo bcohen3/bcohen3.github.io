@@ -16,7 +16,7 @@ author_profile: true
   ★ Best Paper Award
 </p>
 
-<p>Educational data in the cloud: Legal implications and technical recommendations<br />
+<p><a href="/files/ucc_22.pdf">Educational data in the cloud: Legal implications and technical recommendations</a><br />
   <u>Ben Cohen</u>, Ashley Hu, Deisy Patino, and Joel Coffman<br />
   <i>15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)</i>, December 2022
 </p>
