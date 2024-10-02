@@ -10,7 +10,8 @@ author_profile: true
 <h2>Peer-Reviewed Journal Publications</h2>
 <a href="https://dl.acm.org/doi/10.1145/3675230">This is going on your permanent record: A legal analysis of educational data in the cloud</a><br />
   <u>Ben Cohen</u>, Ashley Hu, Deisy Patino, and Joel Coffman<br />
-  <i>ACM Journal on Responsible Computing</i> (in production - accepted May 2024)
+  <i>ACM Journal on Responsible Computing</i>, vol. 1, no. 3, pp. 1--27, Aug. 2024.
+
 
 <h2>Peer-Reviewed Conference Publications</h2>
 
