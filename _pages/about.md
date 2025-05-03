@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an aspiring doctoral student who completed my M.S. in Computer Science at [Johns Hopkins University](https://www.jhu.edu) in December 2023. My research interests are interdisciplinary and focus on analyzing the impact of new technologies through a regulatory lens, with a particular (though not exclusive) focus on AI.
+Hello! I am an accepted student who will begin the PhD program in [Human-Centered Computing](https://hcc.umbc.edu/) at the University of Maryland, Baltimore County, in fall 2025. My research interests are interdisciplinary and focus on analyzing the impact of new technologies through a regulatory lens, with a particular (though not exclusive) focus on AI.
 
 I taught [AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course) at [Towson High School](https://towsonhs.bcps.org) in [Baltimore County, Maryland](https://www.bcps.org), for six years (out of eight total at THS). I now work full-time as an AP Computer Science assessment specialist at [Educational Testing Service](https://www.ets.org) and teach as an adjunct at [Towson University](https://www.towson.edu/fcsm/departments/mathematics/). I also taught for the [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu) from 2017 to 2021 after serving as a TA during the 2015 and 2016 summers.
 
