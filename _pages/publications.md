@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Portfolio"
 permalink: /publications/
 author_profile: true
 ---
@@ -27,3 +27,8 @@ author_profile: true
   <u>Ben Cohen</u>, Ashley Hu, Deisy Patino, and Joel Coffman<br />
   <i>15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)</i>, December 2022
 </p>
+
+<h2>Design Case Studies</h2>
+<a href="https://bcohen3.github.io/files/Interaction Design Rules.pdf">Interaction Design Rules</a>
+<i>HCC 629: Introduction to Human-Centered Design, Fall 2025</i>
+<p>This project involved redesigning the website of Toronto Cupcake to address seven design principles: visibility, constraints, feedback, consistency, signifiers/affordances, and mapping. The following link includes a PDF of the case study.</p>
