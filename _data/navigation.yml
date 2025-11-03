@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "CV"
-    url: /files/CV%20for%20web.pdf target="_blank"
+    url: /files/CV%20for%20web.pdf
 
   #- title: "Contact"
   #  url: /contact/
