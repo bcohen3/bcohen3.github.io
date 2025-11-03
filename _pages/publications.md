@@ -31,4 +31,4 @@ author_profile: true
 <h2>Design Case Studies</h2>
 <a href="https://bcohen3.github.io/files/Interaction Design Rules.pdf">Interaction Design Rules</a><br />
 <i>HCC 629: Introduction to Human-Centered Design, Fall 2025</i>
-<p>This project involved redesigning the website of Toronto Cupcake to address seven design principles: visibility, constraints, feedback, consistency, signifiers/affordances, and mapping. The following link includes a PDF of the case study.</p>
+<p>This project involved redesigning the website of Toronto Cupcake to address seven design principles: visibility, constraints, feedback, consistency, signifiers/affordances, and mapping. The link includes a PDF of the full case study.</p>
