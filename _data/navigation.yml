@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Design Portfolio"
-    url: /portfolio/
+  #- title: "Design Portfolio"
+  #  url: /portfolio/
         
   - title: "CV"
     url: /files/CV%20for%20web.pdf
