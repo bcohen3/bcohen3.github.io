@@ -1,0 +1,10 @@
+---
+layout: archive
+title: "Dissertation Study"
+permalink: /dissertation_study/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Placeholder</h2>
