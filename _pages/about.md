@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first-year PhD student in [Human-Centered Computing](https://hcc.umbc.edu/) at the University of Maryland, Baltimore County, co-advised by [Dr. Edward Dillon](https://www.edwarddillonjrphd.com/) and [Dr. Tera Reynolds](http://www.terareynolds.com/). My research interests focus on the ways that generative AI is impacting the K-12 student experience both inside and outside the classroom.
+Hello! I am a second-year PhD student in [Human-Centered Computing](https://hcc.umbc.edu/) at the University of Maryland, Baltimore County, co-advised by [Dr. Edward Dillon](https://www.edwarddillonjrphd.com/) and [Dr. Tera Reynolds](http://www.terareynolds.com/). My research interests focus on the ways that generative AI is impacting the K-12 student experience both inside and outside the classroom.
 
 I taught [AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course) at [Towson High School](https://towsonhs.bcps.org) in [Baltimore County, Maryland](https://www.bcps.org), for six years (out of eight total at THS). I now work full-time as an assessment specialist at [Educational Testing Service](https://www.ets.org) and have taught at [Towson University](https://www.towson.edu/fcsm/departments/mathematics/) and for the [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu).
 
