@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://bcohen3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bcohen3/bcohen3.github.io"
-teaser                   : # "YTNHBNPZ-26007.JPG"
+teaser                   : # "IMG_3548.PNG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
