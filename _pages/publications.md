@@ -15,7 +15,11 @@ author_profile: true
 
 <h2>Peer-Reviewed Conference Publications</h2>
 
-<p><i>Note: Conferences are considered top-tier venues in computer science.</i></p>
+<p><i>Note: Conferences are considered top-tier venues in computer science and related fields.</i></p>
+<p><a href="/files/asee_2026.pdf">Exploring Peer-to-Peer Evaluation with an AI-Supported Learning Tool in an Introductory Programming Course: An MSI Case Study</a><br />
+  Edward Dillon, Patricia Ordóñez, Carine Marette, <u>Ben Cohen</u>, Omobolanle Niyi Owoeye, Kevin Lemus, and Shrushti Rajesh Dharmale<br />
+  <i>2026 ASEE Annual Conference & Exposition</i>
+</p>
 
 <p><a href="/files/asonam_23.pdf">Fragile minds: Exploring the link between social media and young adult mental health</a><br />
   <u>Ben Cohen</u> and Ian McCulloh<br />
